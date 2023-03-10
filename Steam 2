@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <title>Sbeans</title>
+</head>
+<body>
+<table>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png?20220611141426" alt="logo" height="30" width="30">
+    <h4>Home</h4>
+    <h4>loja</h4>
+    <h4>comunidade</h4>
+    <h4>suporte</h4>
+</table>
+    <br>
+</body>
+</html>
